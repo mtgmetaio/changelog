@@ -4,8 +4,6 @@
 * [mtgmeta.io :chart_with_upwards_trend:](https://mtgmeta.io)
 * [mtgmeta.io github read-me](https://github.com/mtgmetaio/Read-me-first)
 
-##
-
 # Changelog
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
