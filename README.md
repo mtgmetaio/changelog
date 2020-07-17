@@ -1,6 +1,6 @@
 [<img src="https://raw.githubusercontent.com/mtgmetaio/Read-me-first/master/mtgmetalogo.jpg">](https://mtgmeta.io)
 
-## Main read me link
+### Main read me link
 
 [Read me](https://github.com/mtgmetaio/Read-me-first)
 
