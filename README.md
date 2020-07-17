@@ -2,10 +2,6 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
-- [Changelog](#changelog)
-- [MTGmeta related Links](#related-links)
-- [Bug reports](#bug-reports)
-
 ## Changelog
 
 ### 2020-06-29
@@ -133,18 +129,3 @@
 ### 2018-01-10
 
 💥
-
-
-## Related Links
-
-* [mtgmeta :chart_with_upwards_trend:](https://mtgmeta.io)
-* [roadmap (planned implementations) :clipboard:](https://github.com/mtgmetaio/roadmap)
-* [reddit](https://www.reddit.com/r/mtgMETAio/) 
-* [patreon](https://www.patreon.com/mtgmeta)
-* [twitter](https://twitter.com/mtgmetaio) 
-* [discord](https://discord.gg/3KaXbMQ)
-* [email :email:](mailto:hello@mtgmeta.io?subject=[BUG%20REPORT]%20)
-
-## Bug Reports
-
-If you find any problem (even misslabeled decks) you can enter in contact preferebly via [email :email:](mailto:hello@mtgmeta.io?subject=[BUG%20REPORT]%20), [twitter](https://twitter.com/mtgmetaio), [discord](https://discord.gg/3KaXbMQ) or open an issue on the [bugs report](https://github.com/mtgmetaio/bugs-report).
