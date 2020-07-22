@@ -17,10 +17,10 @@
 - users can now merge their own decks
 - fixed deck suggestions to appear when name contains a capitalized letter inserting a deck or match
 - tournaments from mtgmelee now correctly indicates the info of % of the info of the event
-- on /api you can now see other eras decks and other era tournaments instead of only the current era.
-- added meta performance info for the current era in the api (api/metagame)
+- on [/api](https://mtgmeta.io/api) you can now see other eras decks and other era tournaments instead of only the current era.
+- added meta performance info for the current era in the api ([/api/metagame](https://mtgmeta.io/api/metagame))
 - users can now associate an event to multiple matches easily
-- users can now add events on the /events page (instead of when inserting a match)
+- users can now add events on the [/users/events](https://mtgmeta.io/users/events) page (instead of when inserting a match)
 
 ### 2020-06-29
 * when ordering decks, names that start with letter go to the end now
