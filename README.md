@@ -8,6 +8,20 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
+### 2020-07-22
+- improvements to results checking for the mtgo importer
+- fixed small bug in the importer auto identifier the suggestions where ignore if you used caps
+- matrix now appears correctly for same day tournaments (would only appear in the next day)
+- fix small error for single decks stats, events on the day of the new BR where not included (metagame stats included)
+- [/users/decks](https://mtgmeta.io/users/decks) now loads all user decks
+- users can now merge their own decks
+- fixed deck suggestions to appear when name contains a capitalized letter inserting a deck or match
+- tournaments from mtgmelee now correctly indicates the info of % of the info of the event
+- on /api you can now see other eras decks and other era tournaments instead of only the current era.
+- added meta performance info for the current era in the api (api/metagame)
+- users can now associate an event to multiple matches easily
+- users can now add events on the /events page (instead of when inserting a match)
+
 ### 2020-06-29
 * when ordering decks, names that start with letter go to the end now
 * small text changes
