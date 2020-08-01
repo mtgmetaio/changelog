@@ -8,6 +8,15 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
+### 2020-08-01
+- mtgo importer now open to any registered user
+- matches inserted from mtgo importer now can have the match log by request
+- when editing matches you can now change the deck
+- improved site performance (code, server and small other improvements)
+- small menu design change: logout icon and search icon out of the inner menu.
+- small design changes to search results
+
+
 ### 2020-07-22
 - improvements to results checking for the mtgo importer
 - fixed small bug in the importer auto identifier the suggestions where ignore if you used caps
