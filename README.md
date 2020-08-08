@@ -13,6 +13,7 @@
 - mtgo importer you can now select to each of your inserted decks you want to associate
 - fixed error on the tool to calculate expected performance [users/tools](https://mtgmeta.io/users/tools)
 - mtgo importer small improvements
+- mtgo importer you can now change the result when it failed to detect
 
 ### 2020-08-01
 - mtgo importer now open to any registered user
