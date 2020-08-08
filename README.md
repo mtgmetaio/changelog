@@ -8,6 +8,12 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
+### 2020-08-08
+- metagame section, you can now select the minimum of 1 day (instead of period of 2 days
+- mtgo importer you can now select to each of your inserted decks you want to associate
+- fixed error on the tool to calculate expected performance [users/tools](https://mtgmeta.io/users/tools)
+- mtgo importer small improvements
+
 ### 2020-08-01
 - mtgo importer now open to any registered user
 - matches inserted from mtgo importer now can have the match log by request
