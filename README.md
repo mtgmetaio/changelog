@@ -8,6 +8,15 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
+### 2020-08-30
+- fix small error that some decks where skipped being listed on /tournaments
+- fixed error processing mtgo files when last games had no plays and one of the players just conceded
+- tournament text clarification of # of matches
+- backend optimizations
+- fixed email send when request to reset password
+- historic format added
+
+
 ### 2020-08-08
 - metagame section, you can now select the minimum of 1 day (instead of period of 2 days
 - mtgo importer you can now select to each of your inserted decks you want to associate
