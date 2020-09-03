@@ -8,6 +8,13 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
+### 2020-09-03
+- fix error on arena/mtgo decklist exporter
+- added copy to clipboard arena deck export
+- improved deck identification from cards
+- [mtgo importer](https://mtgmeta.io/users/matches?addmtgo), users can now increase the rate of success of deck identifications providing format
+- [mtgo importer](https://mtgmeta.io/users/matches?addmtgo) users can decide if they want a looser or stric deck identification (more or less user validation/correction)
+
 ### 2020-08-30
 - fix small error that some decks where skipped being listed on /tournaments
 - fixed error processing mtgo files when last games had no plays and one of the players just conceded
