@@ -8,6 +8,17 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
+### 2020-09-24
+- small design modifications
+- footer redesign
+- decklists now include separator by type
+- decks now include chart of converted mana cost for the sample decklist
+- decks now include stats on cards played in the deck (main and sideboard)
+- decks now have sample hand generator
+- decks now have a small goldfish playtest
+- tournaments now have cards stats (top8 decks only).
+- metagame now has card stats filtered by date (top8 decks only)
+
 ### 2020-09-03
 - fix error on arena/mtgo decklist exporter
 - added copy to clipboard arena deck export
