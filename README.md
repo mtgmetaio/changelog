@@ -8,6 +8,17 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
+### 2020-11-09
+- design optimizations 
+- some small improvments in descriptions
+- best deck selection for homepage, decreased a bit the minimum metagame share to be eligible
+- api endpoint tournament added decklists
+- on /tournaments you can share a specific decklist
+- on /users/tools you can now define the vs performance for unknow match vs deck
+- /users/tools fixed small bug for defined meta lists
+- decklists now include card types count
+- you can now see specific decklists from older events
+
 ### 2020-09-24
 - small design modifications
 - footer redesign
