@@ -8,6 +8,10 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
+### 2020-12-08
+- small code improvments
+- search improvements (can filter for format and includes players now)
+
 ### 2020-11-09
 - design optimizations 
 - some small improvments in descriptions
