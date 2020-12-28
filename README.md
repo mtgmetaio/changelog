@@ -8,6 +8,11 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
+### 2020-12-28
+- fixed small error when calculating confidence interval with wilson score
+- tournaments count all cards from event instead of top8
+- /search when empty does not redirect to 404
+
 ### 2020-12-08
 - small code improvments
 - search improvements (can filter for format and includes players now)
