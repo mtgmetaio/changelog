@@ -8,6 +8,15 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
+### 2021-06-04
+
+- small top menu redesign
+- add deck main cards count
+- backoffice improvements
+- decklists cards sorted by manacost
+- small fix to mtgo log parser
+- small SEO improvments
+
 ### 2020-12-28
 - fixed small error when calculating confidence interval with wilson score
 - tournaments count all cards from event instead of top8
