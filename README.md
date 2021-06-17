@@ -8,6 +8,14 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
+### 2021-06-17
+- increased API max requests
+- API calls related with tournaments now include last update date
+- tournaments now include decks card count
+- some accessibility improvements
+- internal code restructure
+- Tournaments and Decks page small performance improvement
+
 ### 2021-06-04
 
 - small top menu redesign
