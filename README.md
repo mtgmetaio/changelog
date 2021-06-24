@@ -8,6 +8,11 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
+### 2021-06-24
+
+- Added option to mix tournament stats
+- Performance for single deck and single page improvements
+
 ### 2021-06-17
 - increased API max requests
 - API calls related with tournaments now include last update date
