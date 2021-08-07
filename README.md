@@ -8,6 +8,15 @@
 
 [MTGmeta.io](https://mtgmeta.io) log of the most important changes made (design, code, structure or new implementations).
 
+### 2021-08-07
+
+* API increased tournaments results
+* API increased max requests
+* API added other decklists in decks
+* API added topcards for decks
+* homepage now has a list of the best decks per format
+* decks page has the best decks for every era already featured 
+
 ### 2021-06-24
 
 - Added option to mix tournament stats
